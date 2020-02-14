@@ -1,8 +1,0 @@
-onnxruntime
-urllib3
-tf2onnx
-keras
-mxnet
-numpy
-coremltools
-onnxmltools
